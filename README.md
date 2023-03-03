@@ -9,9 +9,11 @@ File Type: csv <br>
 Language: Python <br>
 
 ## Available Data Summary
-1. The transaction amount is relatively small. The mean of all the mounts made is approximately USD 88.
-2. There are no "Null" values, so we don't have to work on ways to replace values.
-3. Most of the transactions were Non-Fraud (99.83%) of the time, while Fraud transactions occurs (0.17%) of the time in the dataframe.
+The transaction amount is relatively small. The mean of all the mounts made is approximately USD 88.
+
+There are no "Null" values, so we don't have to work on ways to replace values.
+
+Most of the transactions were Non-Fraud (99.83%) of the time, while Fraud transactions occurs (0.17%) of the time in the dataframe.
 
 ## Our project is roughly divided into the following steps:
 1. __Data collection and preprocessing__: it involves retrieving a dataset that includes both fraudulent and non-fraudulent transactions, and cleaning the data by removing any errors or remedying inconsistencies.
