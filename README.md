@@ -27,3 +27,6 @@ Most of the transactions were Non-Fraud (99.83%) of the time, while Fraud transa
 5. __Evaluation__: This involves evaluating the performance of the model based on sanity(if fitting properly and data are balanced or not), confusion matrix, and metrics such as accuracy, precision, and recall. The best anomaly-detection model will be selected after comparison.
 
 6. __Business Value/contribution__: After evaluation, if the model performs well, it can be deployed to a live system, where it can flag fraud transactions after required parameters are entered to the system. The baseline of the original system will be evaluated and the effect of this new project will be calculated, which helps to calculate the business value of this project while taking costs of the data analytics teams, project implementation into consideration.
+
+## Reference
+https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input
