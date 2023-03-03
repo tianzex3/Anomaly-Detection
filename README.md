@@ -4,7 +4,7 @@ Banking security systems are designed to protect the assets of their customers b
 ![image](https://user-images.githubusercontent.com/90085137/222816791-2878f36d-cdcf-43d5-a4b0-b6179f5d8788.png)
 
 ## Methodology
-Tool: Over-Sampling, Machine Learning <br>
+Tool: Over-Sampling, Machine Learning, Deep Learning <br>
 File Type: csv <br>
 Language: Python <br>
 
