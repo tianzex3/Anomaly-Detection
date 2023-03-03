@@ -1,6 +1,16 @@
 ## Case Description:
 Banking security systems are designed to protect the assets of their customers by sending alerts to remind customers of seemingly fraud transactions. Sending accurate alerts about the true fraud transaction is meaningful to help banks increase their customers' stickiness by demonstrating the ability to defend customers’ wealth. The primary data source is retrieved from Kaggle, Credit Fraud || Dealing with Imbalanced Datasets. The dataset provides 31 different features and approximately 285k observations. The missing values in the dataset have been cleaned. Due to privacy, most of the features’ names have been scaled and replaced with serial numbers except for transaction and amount. The goal of this project is to develop anomaly detection mechanisms for seemingly credit card fraud transactions that deviate from the normal pattern of transactions. For example, a purchase made in a different country from the cardholder's location may be flagged as suspicious. The mechanisms are expected to not only make the right fraud detection but also reduce false fraud alerts.
 
+![image](https://user-images.githubusercontent.com/90085137/222816791-2878f36d-cdcf-43d5-a4b0-b6179f5d8788.png)
+
+## Methodology
+Tool: Over-Sampling, Machine Learning <br>
+File Type: csv <br>
+Language: Python <br>
+
+## Available Data
+The flight booking dataset obtained from “Ease My Trip” website has 300,154 rows in total. It contains flight ticket data in six major airports in India: Mumbai, Bangalore, Kolkata, Hyderabad, Chennai, and Delhi. There are six airlines in this data which are SpiceJet, AirAsia, Vistara, GO FIRST, Indigo, and Air India. In addition, we are also considering adding more features to the dataset which might include: the population of the source city and destination, airports capacity, population's average salary and some other related features.
+
 ## Our project is roughly divided into the following steps:
 1. __Data collection and preprocessing__: it involves retrieving a dataset that includes both fraudulent and non-fraudulent transactions, and cleaning the data by removing any errors or remedying inconsistencies.
 
